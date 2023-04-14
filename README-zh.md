@@ -1017,6 +1017,7 @@ Awesome Mac
 * MACPEDIA：~~https://macpedia.xyz/~~
 * 苹果软件盒子：~~https://www.macappbox.com/~~
 * Cmacked：~~https://mac.cmacked.com/~~
+* *torrentmac:~~`~~`https://appstorrent.ru/`~~`~~
 * 玩转苹果：~~`http://www.ifunmac.com`~~
 * AppKed：~~`http://www.macbed.com`~~
 * appaddict：~~`https://www.appaddict.org/`~~
@@ -1043,6 +1044,7 @@ Awesome Mac
 * MAC萌新网：~~`https://www.macxin.com`~~
 * 佛系软件：~~`https://foxirj.com/`~~
 * appstorrent：~~`https://appstorrent.ru/`~~
+
 
 <!--end-->
 
